@@ -8,6 +8,7 @@
 - [Convertors and Generators](#convertors-and-generators)
 - [CLIs](#clis)
 - [Tutorials](#tutorials)
+    - [Tutorials with tRPC](#tutorials-with-trpc)
 - [Contribute](#contribute)
 
 ## About this List
@@ -50,6 +51,10 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`soly`](https://github.com/mdbetancourt/soly) - Create CLI applications with zod.
 
 ## Tutorials
+
+### Tutorials with tRPC
+- [`Build a full-stack TypeScript app using tRPC and React`](https://blog.logrocket.com/build-full-stack-typescript-app-trpc-react)
+
 
 ## Contribute
 
