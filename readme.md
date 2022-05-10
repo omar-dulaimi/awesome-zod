@@ -38,6 +38,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zod-express-guard`](https://github.com/roziscoding/zod-express-guard) - Small package intended to use zod to make express request type-safe.
 ## Convertors and Generators
 
+- [`prisma-zod-generator`](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema.
 - [`ts-to-zod`](https://github.com/fabien0102/ts-to-zod) - Convert TypeScript definitions into Zod schemas.
 - [`zod-to-ts`](https://github.com/sachinraja/zod-to-ts) - Generate TypeScript definitions from Zod schemas.
 - [`@anatine/zod-mock`](https://github.com/anatine/zod-plugins/tree/main/libs/zod-mock) - Generate mock data from a Zod schema. Powered by [faker.js](https://github.com/Marak/Faker.js).
