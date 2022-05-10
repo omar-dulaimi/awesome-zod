@@ -68,6 +68,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`@felte/validator-zod`](https://github.com/pablo-abc/felte/tree/main/packages/validator-zod) - Handle validation with Zod in Felte.
 
 ## Projects Using Zod
+- [`prisma-trpc-generator`](https://github.com/omar-dulaimi/prisma-trpc-generator) - Prisma 2+ generator to emit fully implemented tRPC routers.
 - [`@danprince/zhttp`](https://github.com/danprince/zhttp) - A small library that brings zod, express, and static-path together to create type safe HTTP endpoints for clients and servers.
 - [`@renke/vod`](https://www.npmjs.com/package/@renke/vod) - Immutable, type-safe, validated, nominal value objects in TypeScript based on @renke/vo and zod.
 - [`react-zorm`](https://github.com/esamattis/react-zorm) - Type-safe <form> for React using Zod!.
