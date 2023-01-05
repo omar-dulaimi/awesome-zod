@@ -56,7 +56,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zod-to-openapi`](https://github.com/asteasolutions/zod-to-openapi) - Generate full OpenAPI (Swagger) docs from Zod, including schemas, endpoints & parameters.
 - [`pgzod`](https://github.com/owncoral/pgzod) - Transform PostgreSQL schemas into Zod validators and types.
 - [`atlas2ts`](https://www.npmjs.com/package/atlas2ts) - Generates typescript interfaces or zod typespecs from atlas DDL specification.
-- [`kanel-zod`](https://www.npmjs.com/package/kanel-zod) - Generates Zod schemas from a live Postgres database
+- [`kanel-zod`](https://www.npmjs.com/package/kanel-zod) - Generates Zod schemas from a live Postgres database.
 ## CLIs
 
 - [`soly`](https://github.com/mdbetancourt/soly) - Create CLI applications with zod.
