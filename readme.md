@@ -33,6 +33,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`fastify-zod`](https://github.com/elierotenberg/fastify-zod) - Zod integration with Fastify.
 - [`zod-json-rpc`](https://www.npmjs.com/package/zod-json-rpc) - Lets you rapidly build typesafe JSON-RPC servers and clients in TypeScript. Not only that, it is self-describing via its advanced introspection API, which can output JSON Schema or source code in multiple languages.
 - [`zod-express-middleware`](https://github.com/Aquila169/zod-express-middleware) - Middleware for express that uses zod to make requests type-safe.
+- [`ts-rest`](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API.
 - [`zodios`](https://github.com/ecyrbe/zodios) - A typescript api client with auto-completion features backed by axios and zod.
 - [`@lambda-func/zod`](https://github.com/connorgiles/lambda-func) - A middleware to use zod for type parsing.
 - [`zod-express-guard`](https://github.com/roziscoding/zod-express-guard) - Small package intended to use zod to make express request type-safe.
