@@ -68,6 +68,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zod-localstorage`](https://github.com/bigbeno37/zod-localstorage) - A Typescript library to allow typesafe access to localstorage using schema validation from Zod.
 - [`zod-formik-adapter`](https://github.com/robertLichtnow/zod-formik-adapter) - Formik adapter for Zod.
 - [`@felte/validator-zod`](https://github.com/pablo-abc/felte/tree/main/packages/validator-zod) - Handle validation with Zod in Felte.
+- [`zcn`](https://github.com/wesleydmscn/zcn/) - A set of ready-made schemas extended for Zod. (`z.otp`, `z.username`, `z.port`, `z.nodeEnv` and more...)
 
 ## Projects Using Zod
 - [`prisma-trpc-generator`](https://github.com/omar-dulaimi/prisma-trpc-generator) - Prisma 2+ generator to emit fully implemented tRPC routers.
