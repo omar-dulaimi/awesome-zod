@@ -37,6 +37,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zodios`](https://github.com/ecyrbe/zodios) - A typescript api client with auto-completion features backed by axios and zod.
 - [`@lambda-func/zod`](https://github.com/connorgiles/lambda-func) - A middleware to use zod for type parsing.
 - [`zod-express-guard`](https://github.com/roziscoding/zod-express-guard) - Small package intended to use zod to make express request type-safe.
+
 ## Convertors and Generators
 
 - [`prisma-zod-generator`](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema.
@@ -58,6 +59,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`pgzod`](https://github.com/owncoral/pgzod) - Transform PostgreSQL schemas into Zod validators and types.
 - [`atlas2ts`](https://www.npmjs.com/package/atlas2ts) - Generates typescript interfaces or zod typespecs from atlas DDL specification.
 - [`kanel-zod`](https://www.npmjs.com/package/kanel-zod) - Generates Zod schemas from a live Postgres database.
+
 ## CLIs
 
 - [`soly`](https://github.com/mdbetancourt/soly) - Create CLI applications with zod.
@@ -78,6 +80,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`daruk`](https://github.com/darukjs/daruk) - A Node.js web framework based on typescript.
 - [`shrub`](https://github.com/jjvainav/shrub) - A framework for building modular Node.js apps and front-end components.
 - [`react-hook-form`](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation (Web + React Native).
+- [`YAMLResume`](https://github.com/yamlresume/yamlresume) - A resume compiler/transpiler that allow people to write resumes in YAML and provide clang-style validations.
 
 ## Tutorials
 
