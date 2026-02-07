@@ -59,6 +59,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`pgzod`](https://github.com/owncoral/pgzod) - Transform PostgreSQL schemas into Zod validators and types.
 - [`atlas2ts`](https://www.npmjs.com/package/atlas2ts) - Generates typescript interfaces or zod typespecs from atlas DDL specification.
 - [`kanel-zod`](https://www.npmjs.com/package/kanel-zod) - Generates Zod schemas from a live Postgres database.
+- [`zenko`](https://www.npmjs.com/package/zenko) - Generates Zod schemas and helper functions from an OpenAPI v3.x spec
 
 ## CLIs
 
