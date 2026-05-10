@@ -49,6 +49,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zod-to-json-schema`](https://github.com/StefanTerdell/zod-to-json-schema) - Convert your Zod schemas into JSON Schemas.
 - [`json-schema-to-zod`](https://github.com/StefanTerdell/json-schema-to-zod) - Convert your JSON Schemas into Zod schemas.
 - [`json-to-zod`](https://github.com/rsinohara/json-to-zod) - Convert JSON objects into Zod schemas.
+- [`json-to-ts`](https://github.com/SolvoHQ/json-to-ts) - Free hosted converter ([json-to-ts-app.netlify.app](https://json-to-ts-app.netlify.app/)) that turns a pasted JSON sample into a Zod schema (also TypeScript interfaces and Valibot schemas) — no install, runs entirely in the browser.
 - [`zod-prisma`](https://github.com/CarterGrimmeisen/zod-prisma) - Generate Zod schemas from your Prisma schema.
 - [`Supervillain`](https://github.com/Southclaws/supervillain) - Generate Zod schemas from your Go structs.
 - [`@anatine/zod-openapi`](https://github.com/anatine/zod-plugins/tree/main/libs/zod-openapi) - Converts a Zod schema to an OpenAPI v3.x `SchemaObject`.
