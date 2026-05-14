@@ -60,6 +60,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`atlas2ts`](https://www.npmjs.com/package/atlas2ts) - Generates typescript interfaces or zod typespecs from atlas DDL specification.
 - [`kanel-zod`](https://www.npmjs.com/package/kanel-zod) - Generates Zod schemas from a live Postgres database.
 - [`zenko`](https://www.npmjs.com/package/zenko) - Generates Zod schemas and helper functions from an OpenAPI v3.x spec
+- [`dotenv2types`](https://github.com/SolvoHQ/dotenv2types) - Paste a `.env` and generate a typed `env.ts` with a Zod schema and inferred type, plus a documented `.env.example`.
 
 ## CLIs
 
