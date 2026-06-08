@@ -49,6 +49,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zod-to-json-schema`](https://github.com/StefanTerdell/zod-to-json-schema) - Convert your Zod schemas into JSON Schemas.
 - [`json-schema-to-zod`](https://github.com/StefanTerdell/json-schema-to-zod) - Convert your JSON Schemas into Zod schemas.
 - [`json-to-zod`](https://github.com/rsinohara/json-to-zod) - Convert JSON objects into Zod schemas.
+- [`Schemato`](https://github.com/weitaishan/schemato) - Browser-only converter for JSON, JSON Schema, OpenAPI, GraphQL, SQL DDL, and more into Zod schemas and typed code.
 - [`zod-prisma`](https://github.com/CarterGrimmeisen/zod-prisma) - Generate Zod schemas from your Prisma schema.
 - [`Supervillain`](https://github.com/Southclaws/supervillain) - Generate Zod schemas from your Go structs.
 - [`@anatine/zod-openapi`](https://github.com/anatine/zod-plugins/tree/main/libs/zod-openapi) - Converts a Zod schema to an OpenAPI v3.x `SchemaObject`.
