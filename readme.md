@@ -60,7 +60,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`atlas2ts`](https://www.npmjs.com/package/atlas2ts) - Generates typescript interfaces or zod typespecs from atlas DDL specification.
 - [`kanel-zod`](https://www.npmjs.com/package/kanel-zod) - Generates Zod schemas from a live Postgres database.
 - [`zenko`](https://www.npmjs.com/package/zenko) - Generates Zod schemas and helper functions from an OpenAPI v3.x spec
-
+- [TypeMorph](https://typemorph.dev) - Paste any schema (JSON/YAML/OpenAPI/SQL/TypeScript) and get Zod output with semantic validators auto-inferred (email, uuid, min/max). Browser-local + CLI. 
 ## CLIs
 
 - [`soly`](https://github.com/mdbetancourt/soly) - Create CLI applications with zod.
