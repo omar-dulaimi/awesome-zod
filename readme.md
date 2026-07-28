@@ -73,7 +73,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zod-nostr`](https://github.com/akiomik/zod-nostr) - Zod schemas for Nostr standards, including NIP-01, NIP-05, NIP-11, and NIP-19.
 - [`zod-formik-adapter`](https://github.com/robertLichtnow/zod-formik-adapter) - Formik adapter for Zod.
 - [`@felte/validator-zod`](https://github.com/pablo-abc/felte/tree/main/packages/validator-zod) - Handle validation with Zod in Felte.
-- [`zcn`](https://github.com/wesleydmscn/zcn/) - A set of ready-made schemas extended for Zod. (`z.otp`, `z.username`, `z.port`, `z.nodeEnv` and more...)
+- [`zod-toolkit`](https://github.com/wesleydmscn/zod-toolkit) - A set of ready-made schemas extended for Zod. (`z.otp`, `z.username`, `z.port`, `z.nodeEnv`, `z.br.cpf` and more...)
 - [`validex`](https://github.com/chiptoma/validex) - 25 tree-shakeable validation rules for Zod 4 (email, phone, password, etc.) with structured error codes, i18n, and framework adapters.
 
 ## Projects Using Zod
