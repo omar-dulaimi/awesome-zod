@@ -75,6 +75,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`@felte/validator-zod`](https://github.com/pablo-abc/felte/tree/main/packages/validator-zod) - Handle validation with Zod in Felte.
 - [`zod-toolkit`](https://github.com/wesleydmscn/zod-toolkit) - A set of ready-made schemas extended for Zod. (`z.otp`, `z.username`, `z.port`, `z.nodeEnv`, `z.br.cpf` and more...)
 - [`validex`](https://github.com/chiptoma/validex) - 25 tree-shakeable validation rules for Zod 4 (email, phone, password, etc.) with structured error codes, i18n, and framework adapters.
+- [`arkenv`](https://github.com/yamcodes/arkenv) - Validate environment variables with a Zod schema (or any Standard Schema validator), from editor to runtime.
 
 ## Projects Using Zod
 - [`prisma-trpc-generator`](https://github.com/omar-dulaimi/prisma-trpc-generator) - Prisma 2+ generator to emit fully implemented tRPC routers.
