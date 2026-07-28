@@ -70,6 +70,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zod-match`](https://www.npmjs.com/package/zod-match) - Adds a resultify method to ZodTypes so you can match Without Exceptions™️!.
 - [`zod-joda`](https://github.com/dasprid/zod-joda) - JS-Joda integration for Zod validation library.
 - [`zod-localstorage`](https://github.com/bigbeno37/zod-localstorage) - A Typescript library to allow typesafe access to localstorage using schema validation from Zod.
+- [`zod-nostr`](https://github.com/akiomik/zod-nostr) - Zod schemas for Nostr standards, including NIP-01, NIP-05, NIP-11, and NIP-19.
 - [`zod-formik-adapter`](https://github.com/robertLichtnow/zod-formik-adapter) - Formik adapter for Zod.
 - [`@felte/validator-zod`](https://github.com/pablo-abc/felte/tree/main/packages/validator-zod) - Handle validation with Zod in Felte.
 - [`zcn`](https://github.com/wesleydmscn/zcn/) - A set of ready-made schemas extended for Zod. (`z.otp`, `z.username`, `z.port`, `z.nodeEnv` and more...)
