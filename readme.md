@@ -66,6 +66,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`soly`](https://github.com/mdbetancourt/soly) - Create CLI applications with zod.
 
 ## Other
+- [`zod-compiler`](https://github.com/gajus/zod-compiler) - Bundler plugin (Vite, webpack, esbuild, Rollup, etc.) that compiles Zod schemas into zero-overhead validation functions at build time while preserving the full Zod API.
 - [`zod-match`](https://www.npmjs.com/package/zod-match) - Adds a resultify method to ZodTypes so you can match Without Exceptions™️!.
 - [`zod-joda`](https://github.com/dasprid/zod-joda) - JS-Joda integration for Zod validation library.
 - [`zod-localstorage`](https://github.com/bigbeno37/zod-localstorage) - A Typescript library to allow typesafe access to localstorage using schema validation from Zod.
