@@ -66,7 +66,6 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`soly`](https://github.com/mdbetancourt/soly) - Create CLI applications with zod.
 
 ## Other
-- [`zod-compiler`](https://github.com/gajus/zod-compiler) - Bundler plugin (Vite, webpack, esbuild, Rollup, etc.) that compiles Zod schemas into zero-overhead validation functions at build time while preserving the full Zod API.
 - [`zod-match`](https://www.npmjs.com/package/zod-match) - Adds a resultify method to ZodTypes so you can match Without Exceptions™️!.
 - [`zod-joda`](https://github.com/dasprid/zod-joda) - JS-Joda integration for Zod validation library.
 - [`zod-localstorage`](https://github.com/bigbeno37/zod-localstorage) - A Typescript library to allow typesafe access to localstorage using schema validation from Zod.
@@ -76,6 +75,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zod-toolkit`](https://github.com/wesleydmscn/zod-toolkit) - A set of ready-made schemas extended for Zod. (`z.otp`, `z.username`, `z.port`, `z.nodeEnv`, `z.br.cpf` and more...)
 - [`validex`](https://github.com/chiptoma/validex) - 25 tree-shakeable validation rules for Zod 4 (email, phone, password, etc.) with structured error codes, i18n, and framework adapters.
 - [`arkenv`](https://github.com/yamcodes/arkenv) - Validate environment variables with a Zod schema (or any Standard Schema validator), from editor to runtime.
+- [`zod-compiler`](https://github.com/gajus/zod-compiler) - Build-time compiler that turns Zod schemas into optimized validation functions, as a plugin for Vite, webpack, esbuild, Rollup and others.
 
 ## Projects Using Zod
 - [`prisma-trpc-generator`](https://github.com/omar-dulaimi/prisma-trpc-generator) - Prisma 2+ generator to emit fully implemented tRPC routers.
