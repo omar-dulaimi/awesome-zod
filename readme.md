@@ -87,6 +87,8 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`react-hook-form`](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation (Web + React Native).
 - [`YAMLResume`](https://github.com/yamlresume/yamlresume) - A resume compiler/transpiler that allow people to write resumes in YAML and provide clang-style validations.
 
+- [`Tale`](https://github.com/tale-project/tale) - Shared agent workspace with Zod-validated configuration, automation, task, connector, and deployment schemas.
+
 ## Tutorials
 
 ### Tutorials with tRPC
