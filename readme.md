@@ -64,6 +64,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 ## CLIs
 
 - [`soly`](https://github.com/mdbetancourt/soly) - Create CLI applications with zod.
+- [`zod-parity`](https://github.com/mangomac/zod-parity) - Find inputs that Zod 4 and its generated JSON Schema disagree about.
 
 ## Other
 - [`zod-match`](https://www.npmjs.com/package/zod-match) - Adds a resultify method to ZodTypes so you can match Without Exceptions™️!.
