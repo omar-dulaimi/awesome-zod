@@ -76,6 +76,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`validex`](https://github.com/chiptoma/validex) - 25 tree-shakeable validation rules for Zod 4 (email, phone, password, etc.) with structured error codes, i18n, and framework adapters.
 - [`arkenv`](https://github.com/yamcodes/arkenv) - Validate environment variables with a Zod schema (or any Standard Schema validator), from editor to runtime.
 - [`zod-compiler`](https://github.com/gajus/zod-compiler) - Build-time compiler that turns Zod schemas into optimized validation functions, as a plugin for Vite, webpack, esbuild, Rollup and others.
+- [`standard-tool`](https://github.com/finom/standard-tool) - One interface for an LLM tool, taking Zod 4 schemas for its input and output and emitting the JSON Schema each provider expects.
 
 ## Projects Using Zod
 - [`prisma-trpc-generator`](https://github.com/omar-dulaimi/prisma-trpc-generator) - Prisma 2+ generator to emit fully implemented tRPC routers.
