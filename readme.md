@@ -37,6 +37,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zodios`](https://github.com/ecyrbe/zodios) - A typescript api client with auto-completion features backed by axios and zod.
 - [`@lambda-func/zod`](https://github.com/connorgiles/lambda-func) - A middleware to use zod for type parsing.
 - [`zod-express-guard`](https://github.com/roziscoding/zod-express-guard) - Small package intended to use zod to make express request type-safe.
+- [`express-email-otp-login`](https://github.com/parv15/express-email-otp-login) - Passwordless login for Express with email one-time codes and magic links, using Zod to validate requests.
 
 ## Convertors and Generators
 
