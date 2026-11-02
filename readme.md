@@ -86,6 +86,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`shrub`](https://github.com/jjvainav/shrub) - A framework for building modular Node.js apps and front-end components.
 - [`react-hook-form`](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation (Web + React Native).
 - [`YAMLResume`](https://github.com/yamlresume/yamlresume) - A resume compiler/transpiler that allow people to write resumes in YAML and provide clang-style validations.
+- [`express-email-otp-login`](https://github.com/parv15/express-email-otp-login) - Passwordless login for Express with email one-time codes and magic links, with zod-validated requests.
 
 ## Tutorials
 
