@@ -37,6 +37,7 @@ This is a collection of **awesome resources** about [Zod](https://github.com/col
 - [`zodios`](https://github.com/ecyrbe/zodios) - A typescript api client with auto-completion features backed by axios and zod.
 - [`@lambda-func/zod`](https://github.com/connorgiles/lambda-func) - A middleware to use zod for type parsing.
 - [`zod-express-guard`](https://github.com/roziscoding/zod-express-guard) - Small package intended to use zod to make express request type-safe.
+- [`oRPC`](https://github.com/middleapi/orpc) - Build end-to-end typesafe APIs with RPC and OpenAPI support, validated with Zod.
 
 ## Convertors and Generators
 
